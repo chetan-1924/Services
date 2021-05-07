@@ -196,6 +196,15 @@ p {
   margin-bottom: -16%;
 }
 
+.contact .info h2 {
+  position: absolute;
+  text-align: center;
+  word-spacing: 2px;
+  top: 34%;
+  left: 50%;
+  transform: translate(-50%, -40%);
+}
+
 .img-slider .e.slide.active {
   margin: 0%;
   /* padding-right: 10%; */
